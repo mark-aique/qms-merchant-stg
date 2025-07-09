@@ -104216,7 +104216,7 @@ $S:657}
 A.al9.prototype={
 $0(){var s=new A.AI(),r=this.a.$1$0(t.Ws).gxj(),q=t.pu,p=J.nQ(0,q)
 q=J.nQ(0,q)
-s.a=new A.aE0(p,"ws://"+r+"/websocket",q)
+s.a=new A.aE0(p,"wss://"+r+"/websocket",q)
 return s},
 $S:658}
 A.ala.prototype={
